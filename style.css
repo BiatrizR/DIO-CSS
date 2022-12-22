@@ -153,14 +153,14 @@ section {
 footer {
   padding: 60px 0;
   text-align: center;
-  background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+  background-image: linear-gradient(rgba(50, 168, 219, .0),hsla(248, 96%, 32%, 0.702));
   border-top: 1px solid #11b6fc80;
 }
 
 
 
 footer a {
-  color: #1c25cf;
+  color: #11b6fc;
   font-weight: bold;
   text-decoration: none;
 }
