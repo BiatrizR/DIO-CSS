@@ -2,7 +2,7 @@
 
 Desafio da Trilha de CSS da DIO! 
 
-[Clique aqui](https://#) para acessar o resultado final.
+[Clique aqui](https://biatrizr.github.io/DIO-CSS/) para acessar o resultado final.
 
 ### Teacher: Michele Ambrosio.
 
